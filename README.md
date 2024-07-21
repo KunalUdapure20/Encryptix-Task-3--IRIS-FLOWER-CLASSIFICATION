@@ -1,3 +1,9 @@
+#### Name - KUNAL UDAPURE
+#### Company - Encryptix IT Services and IT Consulting
+#### ID - EXM166135
+#### Domain - DATA SCIENCE INTERN
+#### Duration - 22 June 2024 to 22 July 2024.
+
 # Project Overview: Iris Flower Classification
 ![iris](https://github.com/user-attachments/assets/4a10efc2-04be-4c94-9c8d-680fffc07c15)
 
